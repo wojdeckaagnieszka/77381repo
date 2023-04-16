@@ -21,11 +21,3 @@ obwod = d * 4
 
 print ("pole rombu wynosi " + str(pole) + ", a obwod wynosi " + str(obwod))
 
-# koło
-
-r = 5
-
-pole =  3.14 * r * r
-obwod = 2 * 3.14 * r
-
-print ("pole koła wynosi " + str(pole) + ", a obwod wynosi " + str(obwod))
