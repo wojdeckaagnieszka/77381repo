@@ -40,3 +40,13 @@ k = 10
 pole = k * k 
 obwod = 4 * k
 print ("pole kwadratu wynosi " + str(pole) + ", a obwod wynosi " + str(obwod))
+
+#prostokąt
+
+e = 2
+f = 3
+
+pole = e * f
+obwod = 2 * e + 2 * f
+
+print ("pole prostokąta wynosi " + str(pole) + ", a obwod wynosi " + str(obwod))
